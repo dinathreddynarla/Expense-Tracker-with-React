@@ -1,0 +1,60 @@
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 16px;
+    text-align: left;
+    background-color: #f9f9f9;
+  }
+  
+ 
+  thead th {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px;
+  }
+ 
+  tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  tbody tr:hover {
+    background-color: #ddd;
+  }
+  
+
+  td, th {
+    padding: 12px;
+    border: 1px solid #ddd;
+  }
+  
+  
+ tr td button {
+    background-color: #f44336;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+ tr td button:hover {
+    background-color: #d32f2f;
+  }
+
+  .notransaction {
+    width: 300px;
+    margin: auto;
+    display: block;
+    opacity: 0.8;
+  }
+  
+  tbody tr td {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+    color: black;
+  }
+  

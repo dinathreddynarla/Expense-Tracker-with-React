@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "id": "cf34",
+      "description": "salary",
+      "amount": 10000,
+      "type": "income"
+    },
+    {
+      "id": "7dc5",
+      "description": "Volley ball",
+      "amount": 1000,
+      "type": "expense"
+    },
+    {
+      "id": "49ca",
+      "description": "salary",
+      "amount": 10000,
+      "type": "income"
+    }
+  ]
+}
