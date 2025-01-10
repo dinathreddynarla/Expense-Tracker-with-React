@@ -9,7 +9,7 @@ function App() {
 
   useEffect(() => {
     const savedData = JSON.parse(localStorage.getItem('data')) || [];
-    setData(savedData);
+    setData(savedData);                                                                                                                                                                                                                                                                                                       
   }, []);
 
   useEffect(() => {

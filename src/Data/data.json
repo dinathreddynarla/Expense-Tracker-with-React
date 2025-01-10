@@ -17,6 +17,24 @@
       "description": "salary",
       "amount": 10000,
       "type": "income"
+    },
+    {
+      "id": "943b",
+      "description": "salary",
+      "amount": 10000,
+      "type": "income"
+    },
+    {
+      "id": "8d0d",
+      "description": "Volley ball",
+      "amount": 1000,
+      "type": "expense"
+    },
+    {
+      "id": "9830",
+      "description": "hello",
+      "amount": 500,
+      "type": "expense"
     }
   ]
 }
